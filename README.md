@@ -4,10 +4,9 @@
 
 ### Built With
 
- - Html,
+ - React,
  - css
- - Javascript
- - webpack
+ - Linters
 
 ## Getting Started
 
